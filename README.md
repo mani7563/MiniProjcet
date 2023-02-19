@@ -46,9 +46,14 @@ Why I taken the VGG16 why don't Alexnet which similar like VGG16
 >>where VGG16 is part of CNN algorithm it is a prity good algorithm for deeplearning image classification
 
 
+>>>Project Structure is look like this
+![image](https://user-images.githubusercontent.com/86354428/219941453-0ba7c70e-3695-4a41-8ca7-d67aeffd1598.png)
+
 
 
 >>>Project Objective and Flow
+
+
 
      >Know fundamental concepts and techniques of VGG16.
 
